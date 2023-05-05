@@ -1,0 +1,17 @@
+location,homology,detected,mappable,fraction
+CNM,no,yes,yes,0.669
+CNM,no,yes,no,0.074
+CNM,no,no,yes,0
+CNM,no,no,no,0.083
+CNM,yes,yes,yes,0
+CNM,yes,yes,no,0.0009
+CNM,yes,no,yes,0
+CNM,yes,no,no,0.0001
+CNU,no,yes,yes,0
+CNU,no,yes,no,0
+CNU,no,no,yes,0
+CNU,no,no,no,0.1231
+CNU,yes,yes,yes,0
+CNU,yes,yes,no,0
+CNU,yes,no,yes,0
+CNU,yes,no,no,0.0499
