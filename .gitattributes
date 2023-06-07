@@ -1,1 +1,14 @@
 hg19.101.mappability.txt.gz filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_1.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_10.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_6.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_9.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/figure_2.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/figure_3.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/figure_5.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_3.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_4.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_5.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/extended_data_figure_8.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/figure_1.xlsx filter=lfs diff=lfs merge=lfs -text
+notebooks/source_data/figure_4.xlsx filter=lfs diff=lfs merge=lfs -text
